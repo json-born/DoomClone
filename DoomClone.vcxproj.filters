@@ -21,9 +21,15 @@
     <ClCompile Include="wad.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="palette.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="wad.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="palette.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

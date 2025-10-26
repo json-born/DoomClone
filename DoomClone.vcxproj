@@ -165,9 +165,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="palette.cpp" />
     <ClCompile Include="wad.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="palette.h" />
     <ClInclude Include="wad.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
